@@ -1,0 +1,15 @@
+{
+    "background_color": "#312b31",
+    "description": "Obtenez rapidement la météo locale pour les 24 prochaines heures et les cinq prochains jours !",
+    "display": "fullscreen",
+    "icons": [
+        {
+            "src": "img/icon.jpg",
+            "sizes": "281x2281",
+            "type": "image/jpeg"
+        }
+    ],
+    "name": "Ma météo",
+    "short_name": "Météo",
+    "start_url": "/index.html"
+}
