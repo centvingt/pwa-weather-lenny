@@ -1,5 +1,6 @@
 {
     "background_color": "#312b31",
+    "orientation": "portrait",
     "description": "Obtenez rapidement la météo locale pour les 24 prochaines heures et les cinq prochains jours !",
     "display": "fullscreen",
     "icons": [
